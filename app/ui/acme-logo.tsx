@@ -1,6 +1,6 @@
 import { GlobeAltIcon } from "@heroicons/react/24/outline";
-
-
+// import 
+// const lusitana = Lusitana({weight: ["400","700"]})
 export default function AcmeLogo() {
   return (
     <div
